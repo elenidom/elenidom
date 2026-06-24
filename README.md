@@ -17,7 +17,6 @@ My research focuses on developing **scalable, reproducible analytical approaches
 
 My work generates evidence on:
 
-- Opioid prescribing and associated outcomes
 - Treatment safety in vulnerable populations
 - Epidemiological methods for linked health data
 
