@@ -19,21 +19,20 @@ My work generates evidence on:
 
 - Opioid prescribing and associated outcomes
 - Treatment safety in vulnerable populations
-- Healthcare utilisation and service pathways
-- Medication-related adverse events
 - Epidemiological methods for linked health data
 
 ## 🛠️ What You'll Find Here
 
 This GitHub profile showcases projects related to:
 
-- Reproducible epidemiological research
+- Epidemiological research
 - Health data science workflows
 - Statistical analysis and cohort study methods
-- Data linkage and phenotyping
-- Research infrastructure and data resource development
+- Research infrastructure and data resource development work
 
-📫 Feel free to connect if you're interested in health data science, epidemiology, or large-scale EHR research!
+Feel free to connect if you're interested in health data science, epidemiology, or large-scale EHR research!
+
+📫 Contact: [eleni.domzaridou@ndph.ox.ac.uk](mailto:eleni.domzaridou@ndph.ox.ac.uk)
 
 <!--
 **elenidom/elenidom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
