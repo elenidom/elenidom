@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eleni, **Health Data Scientist and Epidemiologist** at the **University of Oxford**, specialising in the analysis of **large-scale linked electronic health records (EHRs)** to investigate **medication safety** and **adverse outcomes in high-risk populations**.
+I'm Eleni, **Health Data Scientist and Epidemiologist** at the **University of Oxford**, specialising in the analysis of **large-scale linked electronic health records (EHRs)**.
 
 ## 🔬 About Me
 
@@ -8,10 +8,7 @@ My research focuses on developing **scalable, reproducible analytical approaches
 
 - 🧠 Severe mental illness
 - 💊 Medication safety and prescribing patterns
-- 📊 Population health and epidemiology
 - 🏥 Linked NHS electronic health records
-- 🧬 UK Biobank data resources
-- 📈 Reproducible health data science
 
 ## 🚀 Research Interests
 
@@ -19,14 +16,13 @@ My work generates evidence on:
 
 - Treatment safety in vulnerable populations
 - Epidemiological methods for linked health data
+- UK Biobank data resources regarding phenotyping and health outcomes enhancement at scale
 
 ## 🛠️ What You'll Find Here
 
-This GitHub profile showcases projects related to:
+This GitHub profile showcases analytical code for published research related to:
 
-- Epidemiological research
-- Health data science workflows
-- Statistical analysis and cohort study methods
+- Population health and epidemiology
 - Research infrastructure and data resource development work
 
 Feel free to connect if you're interested in health data science, epidemiology, or large-scale EHR research!
