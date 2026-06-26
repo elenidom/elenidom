@@ -10,8 +10,6 @@ My research focuses on developing **scalable, reproducible analytical approaches
 - 💊 Medication safety and prescribing patterns
 - 🏥 Linked NHS electronic health records
 
-## 🚀 Research Interests
-
 My work generates evidence on:
 
 - Treatment safety in vulnerable populations
