@@ -6,9 +6,9 @@ I'm Eleni, **Health Data Scientist and Epidemiologist** at the **University of O
 
 My research focuses on developing **scalable, reproducible analytical approaches** for complex healthcare datasets, with a particular interest in:
 
-🧠 Severe mental illness
-💊 Medication safety and prescribing patterns
-🏥 Linked NHS electronic health records
+- 🧠 Severe mental illness
+- 💊 Medication safety and prescribing patterns
+- 🏥 Linked NHS electronic health records
 
 ## 🚀 Research Interests
 
